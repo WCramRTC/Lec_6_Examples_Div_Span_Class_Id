@@ -21,3 +21,17 @@
     color: green;
     background-color: rgb(226, 217, 87);
 }
+
+.class-tag {
+    background-color: pink;
+    transition: color .5s;
+}
+
+.bold-font {
+    font-weight: bold;
+}
+
+.italic-style {
+    font-style: italic;
+    color: green;
+}
