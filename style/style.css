@@ -10,3 +10,14 @@
 /* body {
     border: 1px solid black;
 } */
+
+#division-tag {
+    color: blue;
+    background-color: pink;
+    transition: color .5s;
+}
+
+#division-tag:hover {
+    color: green;
+    background-color: rgb(226, 217, 87);
+}
